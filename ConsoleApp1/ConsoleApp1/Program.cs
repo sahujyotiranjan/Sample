@@ -9,6 +9,7 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
             //This is teh new project..
             //hello new line from my local branch.
+            //New line from Git.
         }
     }
 }
